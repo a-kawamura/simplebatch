@@ -1,0 +1,11 @@
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
+INSERT INTO people (first_name, last_name) values ('aaaa', 'bbbb');
